@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first webpage using HTML.</p>
+
+    <h2>A List Example</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>A Link Example</h2>
+    <p>Visit <a href="https://www.example.com">Example.com</a></p>
+</body>
+</html>
